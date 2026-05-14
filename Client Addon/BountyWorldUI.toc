@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: BountyWorld UI
+## Notes: BountyWorld run tracker, achievements and stats
+## Author: BountyWorld
+## Version: 1.0
+## SavedVariables: BountyWorldUIData
+
+BountyWorldUI.lua
