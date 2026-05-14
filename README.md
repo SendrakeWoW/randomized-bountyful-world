@@ -1,4 +1,4 @@
-# BountyWorld - BETA Version 1.0
+# BountyWorld - BETA Version 1.0.1
 
 A singleplayer roguelite gamemode for World of Warcraft 3.3.5a built on [AzerothCore](https://www.azerothcore.org/).
 You play in 3.3.5a, so WOTLK, but only the Vanilla zones are shuffled!
@@ -7,7 +7,7 @@ The 35 vanilla zones are shuffled into 7 difficulty brackets. Named bounty targe
 
 ---
 ## Known bugs / problems
-- Some higher level mobs gets filtered and not reset. These are quest-mobs and scripted mobs. This leads to some zones being VERY dangerous for lower levels and some spawn-points impossible to get out from. This can be fixed during playtime by having a macro with ".gm on" keybound. A permanent solutions is in progress.
+- [SEEMS TO BE FIXED NOW] Some higher level mobs gets filtered and not reset. These are quest-mobs and scripted mobs. This leads to some zones being VERY dangerous for lower levels and some spawn-points impossible to get out from. This can be fixed during playtime by having a macro with ".gm on" keybound. A permanent solutions is in progress.
 ---
 
 ## Features
