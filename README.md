@@ -1,1 +1,1 @@
-# randomized-bountyful-world
+# A Randomized Bountyful World, BETA V1.0
