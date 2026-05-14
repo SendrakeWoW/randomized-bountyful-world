@@ -63,7 +63,6 @@ Place these in your worldserver's `lua_scripts/` directory.
 | `bountyworld_core.lua` | Main bounty system. Handles bounty assignment, kill detection, bracket advancement, hint system, safety net, clean clear detection, and all `bw` chat commands. |
 | `bountyworld_meta.lua` | Account-wide meta progression. Tracks lifetime stats, achievements, safety net bracket, and starting level bonus. Handles faction-based teleport to bracket 1 zone on first login. |
 | `bountyworld_ui_bridge.lua` | Sends run data, stats, and achievement data to the client addon via `SendAddonMessage` on login and after bounty events. |
-| `bountyworld_map.lua` | Sends the full bracket map to the client addon on login so the UI can display zone brackets. |
 
 ### Client Addon
 
