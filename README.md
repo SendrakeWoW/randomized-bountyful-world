@@ -1,6 +1,7 @@
 # BountyWorld - BETA Version 1.0
 
 A singleplayer roguelite gamemode for World of Warcraft 3.3.5a built on [AzerothCore](https://www.azerothcore.org/).
+You play in 3.3.5a, so WOTLK, but only the Vanilla zones are shuffled!
 
 The 35 vanilla zones are shuffled into 7 difficulty brackets. Named bounty targets are assigned across the world — hunt them down, survive, and advance. Die and your run resets. Clear all brackets to achieve true victory.
 
@@ -91,7 +92,8 @@ All tables created in `acore_characters`:
 
 ## Installation
 
-### 0. Install the reuirements and AzerothCore!
+### 0. Install the requirements and AzerothCore!
+Do this as normal from their online guide. A fresh install is needed and dont forget to backup files if you ever want to play the original.
 
 ### 1. Database Setup
 
